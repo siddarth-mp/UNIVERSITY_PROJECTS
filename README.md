@@ -1,1 +1,2 @@
-# This is a collection of projects that i  have carried out while i was pursuing my Btech 
+# Colection of projects done during my time in university
+
